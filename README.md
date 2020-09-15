@@ -1,2 +1,1 @@
-# MyFristRepository
-https://markdownguide.org/cheatsheet/
+# MyFristRepository https://markdownguide.org/cheatsheet/
